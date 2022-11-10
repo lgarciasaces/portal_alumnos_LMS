@@ -1,0 +1,34 @@
+const alumnos = [
+  {
+    "Nombre": "Aaron Geovanny Banegas Flores",
+    "Enlace": "#"
+  },
+  {
+    "Nombre": "Abel Bullon Aguiar",
+    "Enlace": "#"
+  },
+  {
+    "Nombre": "Diogo Reis Santos",
+    "Enlace": "#"
+  },
+  {
+    "Nombre": "Grabiela Paola Calderón Polo",
+    "Enlace": "#"
+  },
+  {
+    "Nombre": "Marcos Romero Pérez",
+    "Enlace": "#"
+  },
+  {
+    "Nombre": "Richard Antonio Quispe Paico",
+    "Enlace": "#"
+  },
+  {
+    "Nombre": "Robin Álvarez Grahovec",
+    "Enlace": "#"
+  },
+  {
+    "Nombre": "Rocío Higueras Contreras",
+    "Enlace": ""
+  }
+]

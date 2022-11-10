@@ -1,0 +1,39 @@
+
+body {
+    font-family: sans-serif;
+}
+
+article {
+    display: inline-table;
+    max-width: 200px;
+    box-shadow: 0 0.5em 2em 0.3em grey;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    margin: 2em;
+
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+}
+
+article img {
+    margin: 1em;
+}
+
+header {
+    color: #cccccc;
+    padding: 2em;
+    display: block;
+
+    background-color: black;
+    background-image: url("assets/imgs/impression-header.png");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    
+    height: 100px;
+}
